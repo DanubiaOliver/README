@@ -1,29 +1,58 @@
-## Hey, what's up? My friends, I'm Danubia 😎
 
-<i> A technology enthusiast and everything that involves it; still new to the area, but looking for new opportunities and friends! <b>You are more than welcome to my profile :D </b></i> 
+# <h1 style="color:#39ff14; font-family:papyrus; text-shadow: 5px 5px 15px green;"> Hey, what's up? My friends, i'am Danúbia 😎 </h1>
 
-I am looking to collaborate as an IT trainee or junior. Too I’m currently learning in <b>Back End, Front End, Full Stack and Python.</br>
+<h2 style="color:green; font-family:times new romam; "> 👀 About me </h2>
 
-I have knowledge (as a user) in the use of <i>Management System (OMIE)</i>, and other ERPs such as <i>DATASUL</i> and <i>Conference System</i>.
+<p1 style="font-family:monospace; font-size:15px"> A technology enthusiast and everything that involves it; still new to the area, but looking for new opportunities and friends! <p1 style= "text-decoration:underline; font-family:monospace; font-size:20px"> "You are more than welcome to my profile.</p1> 
+ 😊👍
 
-🤩 My passions.: games, drawing, music, art and travel; </br>
-😝 Fun fact.: In my spare time I love to draw, write stories, and play games. </br>
-💻📖 I am self-taught, love learning new technologies and general knowledge. I am always learning programming languages and training to improve them. 👽
+- 🤩 **My passions**: games, drawing, music, art and travel;
+- 😝 **Fun fact**: In my spare time I love to draw, write stories, and play games.
+- 💻📖  I am self-taught, love learning new technologies and general knowledge. I am always learning programming languages and training to improve them. 👽
 
-### I am always ready to get new contacts ➡ danubia.olivr@gmail.com 🤓🤓
-**************************************************************************************
-#### PT-BR
+<h2 style="color:green; font-family:times new romam; "> 🔍 Experience </h2>
+I have knowledge (as a user) in the use of Management System (OMIE), and other ERPs such as DATASUL and Conference System.
 
-<i>E aí? Prazer, Danubia! </br>
-Sou apaixonada por tecnologia e tudo que a envolve; ainda novata na área, mas a procura de novas oportunidades e amigos!
-Dito isso, sejam mais que Bem vindos ao meu perfil :D </br> </i>
+<h2 style="color:green; font-family:times new romam"> 🛠️ Skills </h2> 
+<p> I'm looking to collaborate as a trainee or junior in IT. I am currently studying: </p>
 
-Estou à procura de colaborar como trainee ou júnior em TI. Atualmente estou estudando Back End, Front End, Full Stack e Python. </b>
+````
+MySql
+SQL
+Oracle
+Banco de Dados
+````
+<h2 style="color:green; font-family:times new romam"> 📌Contact </h2>
 
-Tenho conhecimentos (como usuário) na utilização em sistema de gestão (OMIE), e de outros ERPs como o DATASUL e o Sistema de Conferências.  </b>
+### 📩 E-mail: danubia.olivr@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danolivr/)
 
-🤩 Minhas paixões.: jogos, música, arte e viagens; </br>
-😝 Curiosidades.: Nos meus tempos livres, desenho, jogo, e escrevo histórias. </br>
-💻📖 Sou autodidata, adoro aprender novas tecnologias e conhecimentos gerais. Sempre estou me qualificando em linguagens de programação e treinamentos para melhorá-las. 👽 </br>
-Caso queira entrar em contato >> danubia.olivr@gmail.com 🤓🤓
+**************************
+**************************
+
+### <h2 style="color:green; font-family:times new romam"> Sobre mim (PT-BR)
+E aí? Meus amigos. Prazer sou a Danubia! 😎
+
+Sou apaixonada por tecnologia e tudo que a envolve; ainda novata na área, mas a procura de novas oportunidades e amigos! Dito isso, sejam mais que Bem vindos ao meu perfil :D
+
+- 🤩 Minhas paixões: jogos, música, arte e viagens;
+- 😝 Curiosidades: Nos meus tempos livres, desenho, jogo, e escrevo histórias.
+💻📖 Sou autodidata, adoro aprender novas tecnologias e conhecimentos gerais. Sempre estou me qualificando em linguagens de programação e treinamentos para melhorá-las. 👽
+
+## <h2 style="color:green; font-family:times new romam"> 🔍 Experiência
+Tenho conhecimentos (como usuário) na utilização em sistema de gestão _(OMIE)_, e de outros _ERPs_ como o _DATASUL_ e o _Sistema de Conferências_.
+
+## <h2 style="color:green; font-family:times new romam"> 🛠️ Habilidades
+Estou à procura de colaborar como trainee ou júnior em TI. Atualmente estou estudando: 
+````
+MySql
+SQL
+Oracle
+Banco de Dados
+````
+
+<h2 style="color:green; font-family:times new romam"> 📌Contato </h2>
+
+### 📩 E-mail: danubia.olivr@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danolivr/)
 
